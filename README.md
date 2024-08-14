@@ -1,0 +1,1 @@
+We Use the RFE model pipeline as a final model and make predictions for classification,First the RFE and model are fit on all available data, then the predict() function can be called to make predictions on new data.
